@@ -22,4 +22,4 @@ https://fbref.com/en/comps/9/schedule/Premier-League-Scores-and-Fixtures
 This is a great website to extract soccer data from.
 
 Make a list of all match report links
-(pic/1)
+(https://github.com/jpark184/datapipelineshowcase/blob/main/pic/1.png)
