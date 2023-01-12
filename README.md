@@ -16,11 +16,5 @@ os
 glob
 mysql.connector
 
-
-## Step 1: Scrapping table data from the website
-https://fbref.com/en/comps/9/schedule/Premier-League-Scores-and-Fixtures
-This is a great website to extract soccer data from.
-
-Make a list of all match report links
-(https://github.com/jpark184/datapipelineshowcase/blob/main/pic/1.png)
-![alt text](https://github.com/jpark184/datapipelineshowcase/blob/main/pic/1.png "Logo Title Text 1")
+## Process
+Please refer to the Showcase PDF file for more information
