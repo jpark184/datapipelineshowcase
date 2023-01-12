@@ -17,4 +17,4 @@ glob
 mysql.connector
 
 ## Process
-Please refer to the Showcase PDF file for more information
+Please refer to the [Showcase PDF](Showcase.pdf) file for more information
